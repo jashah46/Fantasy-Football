@@ -1,0 +1,144 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "positionId": "QB",
+        "playerName": "Josh Allen",
+        "fantasyPointsStd": 412.06,
+        "fantasyPointsPPR": 432
+      },
+      {
+        "id": 2,
+        "positionId": "QB",
+        "playerName": "Kyler Murray",
+        "fantasyPointsStd": 394.74,
+        "fantasyPointsPPR": 404.74
+      },
+      {
+        "id": 3,
+        "positionId": "QB",
+        "playerName": "Aaron Rodgers",
+        "fantasyPointsStd": 390.26,
+        "fantasyPointsPPR": 431.26
+      },
+      {
+        "id": 4,
+        "positionId": "QB",
+        "playerName": "Patrick Mahomes",
+        "fantasyPointsStd": 381.80,
+        "fantasyPointsPPR": 411.80
+      },
+      {
+        "id": 5,
+        "positionId": "QB",
+        "playerName": "DeShaun Watson",
+        "fantasyPointsStd": 379.20,
+        "fantasyPointsPPR": 402.32
+      },
+      {
+        "id": 6,
+        "positionId": "RB",
+        "playerName": "Alvin Kamara",
+        "fantasyPointsStd": 377.80,
+        "fantasyPointsPPR": 387.80
+      },
+      {
+        "id": 7,
+        "positionId": "RB",
+        "playerName": "Dalvin Cook",
+        "fantasyPointsStd": 340.80,
+        "fantasyPointsPPR": 377.80
+      },
+      {
+        "id": 8,
+        "positionId": "RB",
+        "playerName": "Derrick Henry",
+        "fantasyPointsStd": 335.10,
+        "fantasyPointsPPR": 383.10
+      },
+      {
+        "id": 9,
+        "positionId": "RB",
+        "playerName": "David Montgomery",
+        "fantasyPointsStd": 265.80,
+        "fantasyPointsPPR": 279
+      },
+      {
+        "id": 10,
+        "positionId": "RB",
+        "playerName": "Aaron Jones",
+        "fantasyPointsStd": 258.90,
+        "fantasyPointsPPR": 273.80
+      },
+      {
+        "id": 11,
+        "positionId": "WR",
+        "playerName": "Davante Adams",
+        "fantasyPointsStd": 359.40,
+        "fantasyPointsPPR": 393.40
+      },
+      {
+        "id": 12,
+        "positionId": "WR",
+        "playerName": "Tyreek Hill",
+        "fantasyPointsStd": 328.90,
+        "fantasyPointsPPR": 343.90
+      },
+      {
+        "id": 13,
+        "positionId": "WR",
+        "playerName": "Stefan Diggs",
+        "fantasyPointsStd": 328.60,
+        "fantasyPointsPPR": 363.60
+      },
+      {
+        "id": 14,
+        "positionId": "WR",
+        "playerName": "DeAndre Hopkins",
+        "fantasyPointsStd": 289.80,
+        "fantasyPointsPPR": 322.80
+      },
+      {
+        "id": 15,
+        "positionId": "WR",
+        "playerName": "Calvin Ridley",
+        "fantasyPointsStd": 282.50,
+        "fantasyPointsPPR": 321.50
+      },
+      {
+        "id": 16,
+        "positionId": "TE",
+        "playerName": "Travis Kelce",
+        "fantasyPointsStd": 313.76,
+        "fantasyPointsPPR": 342.76
+      },
+      {
+        "id": 17,
+        "positionId": "TE",
+        "playerName": "Darren Waller",
+        "fantasyPointsStd": 280.60,
+        "fantasyPointsPPR": 303.60
+      },
+      {
+        "id": 18,
+        "positionId": "TE",
+        "playerName": "Logan Thomas",
+        "fantasyPointsStd": 176.62,
+        "fantasyPointsPPR": 181.62
+      },
+      {
+        "id": 19,
+        "positionId": "TE",
+        "playerName": "R. Tonyan",
+        "fantasyPointsStd": 176.60,
+        "fantasyPointsPPR": 176.60
+      },
+      {
+        "id": 20,
+        "positionId": "TE",
+        "playerName": "T. Hockenson",
+        "fantasyPointsStd": 176.30,
+        "fantasyPointsPPR": 175.30
+      }
+    ]
+}
